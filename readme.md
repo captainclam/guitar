@@ -6,24 +6,25 @@ Get a menu going on here!
 - etc
 
 Zac Tuesday:
-- Karma Police ()
-- New Slang?
-- G->C walkdown
+- Karma Police (G->C walkdown)
+- New Slang
 
 ## Styles
 
 ### barre
-- sitting on the dock of the bay
-- creep
-- use somebody
-- my hero
-- fake plastic trees
+- Otis Redding - Sitting on the dock of the bay
+- Radiohead - Creep
+- Tiki Taane - use somebody
+- Foo Fighters - my hero
+- Radiohead - fake plastic trees
+- Radiohead - High and Dry
 
 ### picking
-- sleep
-- missed the boat
-- blister in the sun
-- No Surprises
+- Dandy Warhols - Sleep
+- Modest Mouse - Missed the boat
+- Violent Femmes - blister in the sun
+- Radiohead - No Surprises
+- Johnny Cash - Hurt
 
 ### strumming
 - Eli the Barrow Boy
@@ -43,6 +44,19 @@ Zac Tuesday:
 
 
 ## Songs
+
+This weekend just gone
+
+- Vampire Weekend - Step
+- Alt J - Breezeblocks ([songnotes](http://www.songnotes.cc/songs/148-alt-j-breezeblocks))
+- Radiohead - Karma Police
+- Where Is My Mind?
+- Alt J - Matilda
+- LORDE - Royals
+- Pink Floyd - Wish You Were Here (Intro)
+- The Shins - New Slang
+- Ballpark Music - She Only Loves Me When I'm There
+- Bon Iver - Skinny Love
 
 ### Tiki Taane - Use Somebody
 
@@ -105,33 +119,12 @@ G->down, C->down, Am  Bm  D
 Am  C  F  C  G  C  Am  G 
 ```
 
-
-
-Friday
-
-- Step
-- Alt J - Breezeblocks
-
-Saturday
-
-- Karma Police
-- Where Is My Mind?
-- Alt J - Matilda
-- Royals
-- Pink Floyd - Wish You Were Here (Intro)
-- The Shins - New Slang
-- Ballpark Music - She Only Loves Me When I'm There
-- Bon Iver - Skinny Love
-
-
 ### Pachelbels Canon / Basket Case
 
 ```
  D    A    Bm   F#
  G    D    G    A
 ```
-
-
 
 ARE THESE THE SAME!? Why do they sound the same to me.
 
@@ -144,6 +137,8 @@ D   A   Bm   F#
 G   D   G    A
 ```
 
+
+## Other
 
 [Playing a song in a different key](http://music.stackexchange.com/a/15944)
 
