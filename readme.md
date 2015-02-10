@@ -12,16 +12,16 @@ TODO: each list item links to a corresponding header if exists
 - Foo Fighters - My Hero
 - Radiohead - Fake Plastic Trees
 - Radiohead - High and Dry
-- Otis Redding (?) - Sitting on the dock of the bay
+- Otis Redding - Sitting on the dock of the bay
 
 ### picking
 - Dandy Warhols - Sleep
 - Modest Mouse - Missed the boat
-- Violent Femmes - blister in the sun
-- Radiohead - No Surprises
+- Violent Femmes - Blister in the Sun
+- Radiohead - No Surprises `D Bm `
 - Johnny Cash - Hurt
 - Jeff Buckley - Hallelujah
-- Pink Floyd - Wish You Were Here (Intro)
+- Pink Floyd - Wish You Were Here (Intro) [(spotify)](spotify:track:1wHSxWBfPr3GO31y8KGrWe)
 - Alt J - Matilda
 
 ### strumming
@@ -31,7 +31,7 @@ TODO: each list item links to a corresponding header if exists
 - Take the weather with you `(Dm C)`
 - Blow up the Pokies
 - Peace Train
-- Greenday - Good Riddance `G G ()`
+- Greenday - Good Riddance `G G C ...`
 - Cecilia `D A E`
 - Oasis - Wonderwall `Em G D A`
 - The Verve - Drugs Don't Work `C Am Em F G C`
@@ -39,8 +39,8 @@ TODO: each list item links to a corresponding header if exists
 ### quick chord changes
 - Regina Spektor - Samsom
 - New Slang
-- Radiohead - Karma Police
-- Joe Strummer - Long Shadow
+- Radiohead - Karma Police [(youtube)](https://www.youtube.com/watch?v=MmfRYCd5Kk8)
+- Joe Strummer - Long Shadow [(chords)](http://tabs.ultimate-guitar.com/j/joe_strummer_and_the_mescaleros/long_shadow_crd.htm)
 
 ### other
 - [Guitar Percussion Techniques - Lesson 1](https://www.youtube.com/watch?v=y2IE_AsaBbg)
