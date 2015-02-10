@@ -1,6 +1,4 @@
-# Simon Guitar
-
-TODO: each list item links to a corresponding header if exists
+# Guitar
 
 ## Styles
 
@@ -86,6 +84,27 @@ E|---8---(7)---1---||----5----8----1----|
 And just repeat and add lyrics
 ```
 
+### Bon Iver - Skinny Love
+
+Tabbed it myself!
+
+```
+e|-------0-------------0--------------
+B|-0h3-3--3-0-0--0h3-3--3-0-0---------
+G|----------------------------2-0-----
+D|------------------------------------
+A|------------------------------------
+E|------------------------------------
+
+e|------------------------------------
+B|----------------------0-1-0-----0---
+G|-----0-----0-2-0--0h2-------2-0-0---
+D|-0h2---0h2----------------------2---
+A|--------------------------------2---
+E|--------------------------------2---
+```
+
+
 ### Spoon - I Summon You
 
 ```
@@ -116,25 +135,47 @@ C   D
 [(youtube)](https://www.youtube.com/watch?v=MmfRYCd5Kk8)
 
 ```
-Am  D/F#
-Em  G
-
-Am  F
-Em  G
-
-Am  D
-
-G->down, C->down, Am  Bm  D
+Am  D/F# Em  G
+Am  F    Em  G
+Am  D G->C->Am
+Bm  D
 ```
 
 <a name="new-slang"></a>
 ### The Shins - New Slang
 
 ```
+Intro:
 Am  C  F  C  G  C  Am  G 
+
+Verse 1:
+Am x2            C              F x2
+Gold teeth and a curse for this town
+C              G x2
+Were all in my mouth
+     C            F x2         Am   G
+Only I don't know how they got out, dear
+Am x2          C      F x2
+Turn me back into the pet
+C             G x2
+I was when we met
+C             F x2         Am   G
+I was happier then with no mind set
+
+Chorus:
+G x2                   C x2
+And if you'd a took to me like
+  F    C            G x2
+A gull takes to the wind
+            G x2        C
+Well, I'd a jumped from my tree
+    F     C               F           C
+And I'd a danced like the king of the eyesores
+F                   C             G x4
+And the rest of our lives would'a fared well
 ```
 
-### Pachelbels Canon / Basket Case
+### Pachelbels Canon
 
 ```
  D    A    Bm   F#
@@ -145,15 +186,3 @@ Am  C  F  C  G  C  Am  G
 ## Other
 
 [Playing a song in a different key](http://music.stackexchange.com/a/15944)
-
-ARE THESE THE SAME!? Why do they sound the same to me.
-
-```
-G   D   Em  D
-C   G   C   D
-
-
-D   A   Bm   F#
-G   D   G    A
-```
-
