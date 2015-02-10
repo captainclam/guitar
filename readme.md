@@ -1,23 +1,18 @@
 # Simon Guitar
 
-Get a menu going on here!
-- [#styles] Styles
-- [#songs] Songs
-- etc
-
-Zac Tuesday:
-- Karma Police (G->C walkdown)
-- New Slang
+TODO: each list item links to a corresponding header if exists
 
 ## Styles
 
 ### barre
-- Otis Redding - Sitting on the dock of the bay
-- Radiohead - Creep
+- Radiohead - Creep `G B C Cm (?) - 3 7 8 8`
 - Tiki Taane - use somebody
-- Foo Fighters - my hero
-- Radiohead - fake plastic trees
+- Manu Chao - Me gustas tu
+- The Pixies - Where is My Mind?
+- Foo Fighters - My Hero
+- Radiohead - Fake Plastic Trees
 - Radiohead - High and Dry
+- Otis Redding (?) - Sitting on the dock of the bay
 
 ### picking
 - Dandy Warhols - Sleep
@@ -25,38 +20,52 @@ Zac Tuesday:
 - Violent Femmes - blister in the sun
 - Radiohead - No Surprises
 - Johnny Cash - Hurt
+- Jeff Buckley - Hallelujah
+- Pink Floyd - Wish You Were Here (Intro)
+- Alt J - Matilda
 
 ### strumming
 - Eli the Barrow Boy
-- Joe Strummer - Long Shadow printed
-- Bon Iver - Skinny Love
-- This is Why We Fight
-- Take the weather with you (Dm C)
-- Blow up the pokies
+- Bon Iver - Skinny Love `(Em G C)`
+- This is Why We Fight `(C Em / G D Em C)`
+- Take the weather with you `(Dm C)`
+- Blow up the Pokies
 - Peace Train
+- Greenday - Good Riddance `G G ()`
+- Cecilia `D A E`
+- Oasis - Wonderwall `Em G D A`
+- The Verve - Drugs Don't Work `C Am Em F G C`
 
-### percussion
-- [Guitar Percussion Techniques - Lesson 1]
-(https://www.youtube.com/watch?v=y2IE_AsaBbg)
+### quick chord changes
+- Regina Spektor - Samsom
+- New Slang
+- Radiohead - Karma Police
+- Joe Strummer - Long Shadow
 
-### palm mute
-- jimmy eat world - the middle
+### other
+- [Guitar Percussion Techniques - Lesson 1](https://www.youtube.com/watch?v=y2IE_AsaBbg)
+- Jimmy eat world - The Middle (palm mute)
+- Alt J - Breezeblocks (just plain fun. [songnotes](http://www.songnotes.cc/songs/148-alt-j-breezeblocks))
+- LORDE - Royals
+- Vampire Weekend - Step
 
 
 ## Songs
 
-This weekend just gone
+### Ballpark Music - She Only Loves Me When I'm There
 
-- Vampire Weekend - Step
-- Alt J - Breezeblocks ([songnotes](http://www.songnotes.cc/songs/148-alt-j-breezeblocks))
-- Radiohead - Karma Police
-- Where Is My Mind?
-- Alt J - Matilda
-- LORDE - Royals
-- Pink Floyd - Wish You Were Here (Intro)
-- The Shins - New Slang
-- Ballpark Music - She Only Loves Me When I'm There
-- Bon Iver - Skinny Love
+```
+capo 4
+
+Am(4)                C(4)
+Guildford, Guildford holy mother of
+Am(4)        C(4)
+Hell and Jesus in the architraves
+Am(4)              C(4)                 Dm(2)   Am(2)    F(2)    C(8)  
+Waiting, waiting, comes to take all my misery away, at least for now
+E7(2)         Am(2)        F(2)           C(4)..
+Kelvin ghetto homie figure we can work it out
+```
 
 ### Tiki Taane - Use Somebody
 
@@ -126,6 +135,11 @@ Am  C  F  C  G  C  Am  G
  G    D    G    A
 ```
 
+
+## Other
+
+[Playing a song in a different key](http://music.stackexchange.com/a/15944)
+
 ARE THESE THE SAME!? Why do they sound the same to me.
 
 ```
@@ -136,9 +150,4 @@ C   G   C   D
 D   A   Bm   F#
 G   D   G    A
 ```
-
-
-## Other
-
-[Playing a song in a different key](http://music.stackexchange.com/a/15944)
 
