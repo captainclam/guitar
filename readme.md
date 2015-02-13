@@ -182,6 +182,16 @@ And the rest of our lives would'a fared well
  G    D    G    A
 ```
 
+### Jack Johnson - Breakdown (Ukelele)
+
+tabbed myself. probably wrong.
+
+   C          G          Am        G       
+A|-----3-3--------2-2-------0-0--------2-2--
+E|--0---0------3---3-------0-0------3---3---
+C|-0----------2-----------0--------2--------
+G|---0----------0--------1-----------0------
+
 
 ## Other
 
