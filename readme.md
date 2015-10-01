@@ -1,5 +1,10 @@
 # Guitar
 
+Everlong: https://www.youtube.com/watch?v=AwcyilSi5sY
+Times Like These: `D Am Am7 C Em Em7 D  - C Em Em7 D`
+- http://tabs.ultimate-guitar.com/f/foo_fighters/times_like_these_acoustic_crd.htm
+- https://www.youtube.com/watch?v=Lcv43juPhrE
+
 ## Styles
 
 ### barre
