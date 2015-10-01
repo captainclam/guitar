@@ -5,6 +5,12 @@ Times Like These: `D Am Am7 C Em Em7 D  - C Em Em7 D`
 - http://tabs.ultimate-guitar.com/f/foo_fighters/times_like_these_acoustic_crd.htm
 - https://www.youtube.com/watch?v=Lcv43juPhrE
 
+Fix You
+- capo 3 `C Em Am7 G`
+- http://tabs.ultimate-guitar.com/c/coldplay/fix_you_acoustic_crd.htm
+- https://www.youtube.com/watch?v=Tbz0AsEkX8E
+
+
 ## Styles
 
 ### barre
