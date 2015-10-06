@@ -4,6 +4,7 @@ Everlong: https://www.youtube.com/watch?v=AwcyilSi5sY
 Times Like These: `D Am Am7 C Em Em7 D  - C Em Em7 D`
 - http://tabs.ultimate-guitar.com/f/foo_fighters/times_like_these_acoustic_crd.htm
 - https://www.youtube.com/watch?v=Lcv43juPhrE
+- Jesus don't want me for a sunbeam `D  C  G  C G`
 
 Fix You
 - capo 3 `C Em Am7 G`
@@ -209,3 +210,17 @@ G|----x------
 ## Other
 
 [Playing a song in a different key](http://music.stackexchange.com/a/15944)
+
+
+### House of the rising sun
+
+```
+      Am   C        D          F
+There is a house in New Orleans,
+      Am       C      E7
+They call the "Rising Sun",
+     Am       C       D           F
+It's been the ruin of many a poor girl, (boys?)
+    Am     E         Am    E7
+And God, I know, I'm one.
+```
