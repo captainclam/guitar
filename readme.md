@@ -1,16 +1,16 @@
 # Guitar
 
-Everlong: https://www.youtube.com/watch?v=AwcyilSi5sY
-Times Like These: `D Am Am7 C Em Em7 D  - C Em Em7 D`
-- http://tabs.ultimate-guitar.com/f/foo_fighters/times_like_these_acoustic_crd.htm
-- https://www.youtube.com/watch?v=Lcv43juPhrE
-- Jesus don't want me for a sunbeam `D  C  G  C G`
+- Everlong: https://www.youtube.com/watch?v=AwcyilSi5sY
 
-Fix You
-- capo 3 `C Em Am7 G`
-- http://tabs.ultimate-guitar.com/c/coldplay/fix_you_acoustic_crd.htm
-- https://www.youtube.com/watch?v=Tbz0AsEkX8E
+- Times Like These: `D Am Am7 C Em Em7 D  - C Em Em7 D`
+      - http://tabs.ultimate-guitar.com/f/foo_fighters/times_like_these_acoustic_crd.htm
+      - https://www.youtube.com/watch?v=Lcv43juPhrE
+      - Jesus don't want me for a sunbeam `D  C  G  C G`
 
+- Fix You
+      - capo 3 `C Em Am7 G`
+      - http://tabs.ultimate-guitar.com/c/coldplay/fix_you_acoustic_crd.htm
+      - https://www.youtube.com/watch?v=Tbz0AsEkX8E
 
 ## Styles
 
@@ -255,4 +255,19 @@ F#|----------------0--------|----------------------|------------0---------------
 D |----------4-----------4--|----------4-----4-----|---------0--------0-------0-----0--------|
 A |--2----2-----2-----2-----|--0h2--2-----0--------|------5--------5-----4h5-----5--------0--|
 D |-------------------------|-------------------4--|--5--------------------------------------|
+```
+
+## Peace Train
+
+- [Youtube](https://www.youtube.com/watch?v=7u4ZqyKkA0o)
+
+```
+    C    G    C
+Now I've been happy lately, 
+F         C        F
+thinking about the good things to come
+    G   Am 
+And I believe it could be, 
+F         G    F
+something good has begun
 ```
